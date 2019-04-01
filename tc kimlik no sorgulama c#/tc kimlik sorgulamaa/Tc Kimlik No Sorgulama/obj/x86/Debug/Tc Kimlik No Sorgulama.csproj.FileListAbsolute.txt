@@ -1,0 +1,25 @@
+E:\04 - Yazılım\04 - Form Projeleri\57 Tc Kimlik No Sorgulama\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.exe
+E:\04 - Yazılım\04 - Form Projeleri\57 Tc Kimlik No Sorgulama\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.pdb
+E:\04 - Yazılım\04 - Form Projeleri\57 Tc Kimlik No Sorgulama\Tc Kimlik No Sorgulama\bin\Debug\Tc Kimlik No Sorgulama.exe
+E:\04 - Yazılım\04 - Form Projeleri\57 Tc Kimlik No Sorgulama\Tc Kimlik No Sorgulama\bin\Debug\Tc Kimlik No Sorgulama.pdb
+E:\04 - Yazılım\04 - Form Projeleri\57 Tc Kimlik No Sorgulama\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc_Kimlik_No_Sorgulama.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\57 Tc Kimlik No Sorgulama\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc_Kimlik_No_Sorgulama.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\57 Tc Kimlik No Sorgulama\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.csproj.GenerateResource.Cache
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\bin\Debug\Tc Kimlik No Sorgulama.exe
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\bin\Debug\Tc Kimlik No Sorgulama.pdb
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc_Kimlik_No_Sorgulama.Form1.resources
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc_Kimlik_No_Sorgulama.Properties.Resources.resources
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.exe
+C:\Users\Ömer\Desktop\72---Tc-Kimlik-No-Sorgulama-master\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.pdb
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\bin\Debug\Tc Kimlik No Sorgulama.exe
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\bin\Debug\Tc Kimlik No Sorgulama.pdb
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc_Kimlik_No_Sorgulama.Form1.resources
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc_Kimlik_No_Sorgulama.Properties.Resources.resources
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.exe
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\tc kimlik c#\72---Tc-Kimlik-No-Sorgulama-master\Tc Kimlik No Sorgulama\obj\x86\Debug\Tc Kimlik No Sorgulama.pdb
